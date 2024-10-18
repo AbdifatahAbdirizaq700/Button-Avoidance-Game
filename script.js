@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Add a click event listener to the button
     fixedButton.addEventListener('click', function() {
         // Change the h2 text to "You welcome"
-        h2Element.textContent = 'You are guy🤮🤮';
+        h2Element.textContent = 'You are gey🤮🤮';
         h2Element.style.fontSize = '50px'; // Increase the font size
     });
 });
